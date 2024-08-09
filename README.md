@@ -1,6 +1,3 @@
-I will go to do some changes here!
-by Miguel's dev.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
